@@ -1,0 +1,7 @@
+username: redditUsername
+password: redditPassword
+gh_username: githubUsername
+gh_password: githubPassword
+repo_owner: OwnerOfGithubRepo
+repository: NameOfGithubRepo
+reply: False
